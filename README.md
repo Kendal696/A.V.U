@@ -1,6 +1,6 @@
 # Bienvenido a Univalle Voz Assistant 🚀
 
-![Logo de Univalle Assistant](Logo A.V.U..png)
+![Logo de Univalle Assistant](logo.png)
 
 ## Descripción 📘
 
